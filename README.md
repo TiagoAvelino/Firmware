@@ -20,7 +20,7 @@ This repository holds the [PX4](http://px4.io) flight control solution for drone
 ## PX4 Users
 
 The [PX4 User Guide](https://docs.px4.io/en/) explains how to assemble [supported vehicles](https://docs.px4.io/en/airframes/airframe_reference.html) and fly drones with PX4.
-See the [forum and chat](https://docs.px4.io/en/#support) if you need help!
+See the [forum and chat](https://docs.px4.io/en/#support) if you need hel
 
 
 ## PX4 Developers
@@ -105,3 +105,14 @@ Additional information about supported hardware can be found in [PX4 user Guide 
 ## Project Roadmap
 
 A high level project roadmap is available [here](https://www.dronecode.org/roadmap/).
+
+
+
+
+
+
+
+## Meus comandos
+
+git checkout v1.70
+git submodule update --init --recursive
